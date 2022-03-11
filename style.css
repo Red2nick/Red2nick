@@ -1,0 +1,54 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+    }
+    body{
+        background-color: aqua;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+#header {
+    margin-top: 3%;
+    height: 538px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+#skills-1 {
+    margin-top: 140px;
+    margin-right: 25px;
+    height: 445px;
+    width: 40%;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    float: left;
+}
+#skills-2 {
+    margin-top: 140px;
+    height: 445px;
+    width: 58%;
+    background-color: white;
+    text-align: center;
+    position: relative;
+    float: right;
+}
+#img {
+    height: 342px;
+    width: 325px;
+    float: left;
+    margin-left: 38px;
+    margin-right: 20px;
+    margin-top: 40px;
+    background-color: black;
+    position:absolute;
+}
+#img h1,h3,p {
+    margin-top: 40px;
+    margin-left: 38px;
+    float: right;
+    text-align: left;
+}
